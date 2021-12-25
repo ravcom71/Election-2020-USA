@@ -1,5 +1,5 @@
 # Election 2020 USA
-2020 U.S. presidential election.
+The project was completed during postgraduate studies at the University of Gdańsk.
 
 Analysis:
 - television debates,
