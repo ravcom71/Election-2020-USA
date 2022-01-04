@@ -1,5 +1,5 @@
 # Election 2020 USA
-The project was completed during postgraduate studies at the University of Gdańsk.
+The project was completed during postgraduate studies at the University of Gdańsk.  
 Data obtained from:
 - tweeter
 - youtube
